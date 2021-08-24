@@ -2,6 +2,8 @@
 
 > [Imagemin](https://github.com/imagemin/imagemin) plugin for [mozjpeg](https://github.com/mozilla/mozjpeg)
 
+> use https://npm.taobao.org/mirrors/mozjpeg-bin/ as downlaod source
+
 ## Install
 
 ```
